@@ -26,3 +26,14 @@ image.png
     for idx in range(10):
 
     var = for idx in range(10):
+    
+### Casos de prueba
+
+###### Compilación exitosa
+
+![image](https://user-images.githubusercontent.com/31388947/202087086-1b2ea595-9beb-424d-b391-5c2e96481ae2.png)
+
+###### Compilación con errores
+![image](https://user-images.githubusercontent.com/31388947/202087328-05b63b5c-4ce0-4389-afbe-eae3304c533f.png)
+
+      
