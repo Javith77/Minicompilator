@@ -1,0 +1,7 @@
+for count, value in enumerate(items):
+
+for idx in items:
+
+for idx in range(10):
+
+var = for idx in range(10):
