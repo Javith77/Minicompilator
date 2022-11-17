@@ -4,7 +4,16 @@ Aplicacion java escritorio.
 * Se requiere de la instalación de <a href="https://www.java.com/es/download/ie_manual.jsp" target="_BLANK">JAVA</a> para la ejecución de este proyecto
 
 ## Documentación
-Para mayor referencia, tenga en cuenta las siguiente sección
+Para mayor referencia, tenga en cuenta las siguiente sección.
+
+#### Funcionalidad
+    1 Nuevo: Acción para crear nuevo archivo (limpia la consola).
+    2 Abrir: Acción que abre el gestor de archivos para selecccionar un documento con extension txt.
+    3 Guardar: Acción para guardar cambios del archivo de trabajo.
+    4 Guardar como: Acción para guardar el archivo de trabajo en una ruta y con nombre especifico.
+    5 Compilar: Acción Para verificar la sintaxis del programa.
+    6 Ejecutar Acción Para verificar sintaxis y ejecución del programa. 
+
 
 #### Sintaxis valida
 * <b>for</b> count, value <b>in</b> <b>enumerate</b>(items):
