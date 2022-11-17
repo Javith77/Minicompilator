@@ -3,7 +3,7 @@ import jflex.exceptions.SilentExit;
 
 /**
  *
- * @author yisus
+ * @author over.meneses
  */
 public class ExecuteJFlex {
 

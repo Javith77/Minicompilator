@@ -1,4 +1,6 @@
 
+
+
 import com.formdev.flatlaf.FlatIntelliJLaf;
 import compilerTools.CodeBlock;
 import javax.swing.UIManager;
@@ -44,11 +46,10 @@ import static util.LexicalComponentUtil.SYMBOL_TWO_POINTS;
 import static util.Message.MESSAGE_SYMBOL;
 import static util.Message.MESSAGE_SYMBOL_PARENTESIS;
 import static util.Message.MESSAGE_VALUE;
-import util.ReservedWord;
 
 /**
  *
- * @author yisus
+ * @author over.meneses
  */
 public class Compilador extends javax.swing.JFrame {
 

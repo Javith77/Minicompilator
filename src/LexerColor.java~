@@ -678,7 +678,7 @@ class LexerColor {
             // fall through
           case 11: break;
           case 6:
-            { return textColor(yychar, yylength(), new Color(51, 134, 240));
+            { return textColor(yychar, yylength(), new Color(0, 111, 189));
             }
             // fall through
           case 12: break;
